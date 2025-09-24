@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Prompt Indexer",
+  "version": "1.0",
+  "description": "Indexes user prompts in a Gemini AI chat for easy navigation and search.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/*"],
+      "css": ["style.css"],
+      "js": ["script.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["index.html"],
+      "matches": ["https://gemini.google.com/*"]
+    }
+  ],
+   "icons": {
+    "48": "icon48.png"
+  }
+}
