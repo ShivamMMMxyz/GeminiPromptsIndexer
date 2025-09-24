@@ -19,10 +19,11 @@ Open Chrome Extensions Page
 
 In Chrome, go to:
 
-arduino
-Copy code
 chrome://extensions/
 Enable Developer Mode
+
+###  chrome://extensions/  page settings 
+[![Screenshot 3](screenshot/s3.png)](screenshot/s3.png)
 
 Toggle the Developer mode switch (top-right corner).
 
@@ -59,8 +60,6 @@ Click a prompt in the sidebar to quickly navigate.
 ### 3. Final Working Example  
 [![Screenshot 4](screenshot/s4.jpg)](screenshot/s4.jpg)
 
-### 4. chrome://extensions/  page settings 
-[![Screenshot 3](screenshot/s3.png)](screenshot/s3.png)
 
 
 
@@ -70,3 +69,28 @@ This extension is for personal use.
 If you want to publish it on the Chrome Web Store, you’ll need a Google Developer account ($5 one-time fee).
 
 ⭐ If you find this useful, consider giving the repo a star!
+
+
+🤝 Contributing
+
+This is an open source project, so feel free to:
+
+Suggest new features by opening an issue
+
+Contribute by submitting a pull request
+
+Share ideas to improve usability or compatibility
+
+We welcome all contributions to make this extension even better 🚀
+
+
+📜 License
+
+This project is licensed under the MIT License.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, as long as the original license and copyright notice are included.
+
+See the LICENSE
+ file for details.
+
+💡 Built with ❤️ for the developer community.
