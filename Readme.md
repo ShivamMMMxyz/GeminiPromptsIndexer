@@ -12,7 +12,7 @@ Since publishing on the Chrome Web Store requires a developer fee, you can insta
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/gemini-prompt-indexer.git
+  git clone https://github.com/ShivamMMMxyz/GeminiPromptsIndexer.gi
 or download it as a ZIP file and extract it.
 
 Open Chrome Extensions Page
@@ -45,6 +45,24 @@ Open Gemini AI chat in Chrome.
 The sidebar will show all your user prompts with their index numbers.
 
 Click a prompt in the sidebar to quickly navigate.
+
+## 📸 Screenshots
+
+### 1. Extension Button in top left
+[![Screenshot 1](screenshot/s1.png)](screenshot/s1.png)
+
+### 2. Sidebar Appears in Gemini AI  
+[![Screenshot 2](screenshot/s2.png)](screenshot/s2.png)
+
+
+
+### 3. Final Working Example  
+[![Screenshot 4](screenshot/s4.jpg)](screenshot/s4.jpg)
+
+### 4. chrome://extensions/  page settings 
+[![Screenshot 3](screenshot/s3.png)](screenshot/s3.png)
+
+
 
 🛠️ Notes
 This extension is for personal use.
