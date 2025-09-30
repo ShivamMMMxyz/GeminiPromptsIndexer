@@ -11,9 +11,8 @@ Since publishing on the Chrome Web Store requires a developer fee, you can insta
 ### Steps:
 
 1. **Clone this repository**  
-   ```bash
-  git clone https://github.com/ShivamMMMxyz/GeminiPromptsIndexer.gi
-or download it as a ZIP file and extract it.
+   ```bashhttps://github.com/ShivamMMMxyz/GeminiPromptsIndexer.gi
+  git clone or download it as a ZIP file and extract it.
 
 Open Chrome Extensions Page
 
